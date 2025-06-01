@@ -1,0 +1,9 @@
+
+PDF Report
+===========
+File:F:/1month/Day4/project/example.pdf
+Title:NumPy User Guide
+Author:Written by the NumPy community
+pages:659
+Encrypted:False
+
